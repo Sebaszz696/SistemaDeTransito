@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeTransito", "SistemaDeTransito\SistemaDeTransito.csproj", "{5FD8B079-154B-4755-85D7-45A721232987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD8B079-154B-4755-85D7-45A721232987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD8B079-154B-4755-85D7-45A721232987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD8B079-154B-4755-85D7-45A721232987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD8B079-154B-4755-85D7-45A721232987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D80CB7-A5AE-4885-B42A-0BCA8BBB305D}
+	EndGlobalSection
+EndGlobal
